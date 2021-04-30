@@ -1,0 +1,37 @@
+---
+course_id: 20-416j-topics-in-biophysics-and-physical-biology-fall-2014
+layout: course_section
+menu:
+  leftnav:
+    identifier: d4e2422e0825bcc62080c7bd3a8f77b1
+    name: Calendar and Materials
+    weight: 20
+title: Calendar and Materials
+type: course
+uid: d4e2422e0825bcc62080c7bd3a8f77b1
+
+---
+
+Each session includes discussion of the weekly research, led by an MIT faculty guest lecturer, and discussion of the non–research topic relevant to the professional development of the students.
+
+Before each class session, students submitted answers to each of these questions about the readings:
+
+1.  What is the primary motivation and overall aim of the study?
+2.  What methods were used to investigate the problem, and what is / are one of two major limitation(s) of them?
+3.  What is a principal result that you take away from the study?
+4.  What future studies would you suggest as a follow up to the present work?
+
+| SES # | READINGS ON TOPICS IN BIOPHYSICS AND PHYSICAL BIOLOGY | NON–RESEARCH DISCUSSIONS TOPICS AND READINGS |
+| --- | --- | --- |
+| 1 | Dixon, Jesse R., et al. "[Topological Domains in Mammalian Genomes Identified by Analysis of Chromatin Interactions](http://dx.doi.org/10.1038/nature11082)." _Nature_ 485 (2012): 376–80. |  {{< br >}}{{< br >}} **Becoming a Scientist** {{< br >}}{{< br >}} Giddings, Morgan C. "[On the Process of Becoming a Great Scientist](http://dx.doi.org/10.1371/journal.pcbi.0040033)." _PLOS Computational Biology_ 4, no. 2 (2008): e33. {{< br >}}{{< br >}} Erren, Thomas C., et al. "[Ten Simple Rules for Doing Your Best Research, According to Hamming](http://dx.doi.org/10.1371/journal.pcbi.0030213)." _PLOS Computational Biology_ 3, no. 10 (2007): e213. {{< br >}}{{< br >}}  |
+| 2 | Alvarado, Jose, et al. "[Molecular Motors Robustly Drive Active Gels to a Critically Connected State](http://dx.doi.org/10.1038/nphys2715)." _Nature Physics_ 9 (2013): 591–7. |  {{< br >}}{{< br >}} **Writing a Fellowship Proposal** {{< br >}}{{< br >}} [Guidelines & Advice on Applying to Graduate Fellowships (PDF)]({{< baseurl >}}/sections/calendar-and-materials/mit20_416jf14_fellowships)  {{< br >}}(Courtesy of Diana Chien and John Casey, Biological Engineering Communication Lab. Used with permission.) {{< br >}}{{< br >}}  |
+| 3 | Carnall, Jacqui M. A., et al. "[Mechanosensitive Self–replication Driven by Self–organization](http://dx.doi.org/10.1126/science.1182767)." _Science_ 327, no. 5972 (2010): 1502–6. |  {{< br >}}{{< br >}} **Choosing a Research Problem** {{< br >}}{{< br >}} Alon, Uri. "[How to Choose a Good Scientific Problem](http://dx.doi.org/10.1016/j.molcel.2009.09.013)." _Molecular Cell_ 35, no. 6 (2009): 726–8. {{< br >}}{{< br >}}  |
+| 4 | Tavakoli Nia, et al. "[Aggrecan Nanoscale Solid–fluid Interactions are a Primary Determinant of Cartilage Dynamic Mechanical Properties](http://dx.doi.org/10.1021/nn5062707)." _ACS Nano_ 9, no. 3 (2015): 2614–25. |  {{< br >}}{{< br >}} **Writing a Paper** {{< br >}}{{< br >}} Whitesides, George M. "[Whitesides' Group: Writing a Paper](http://dx.doi.org/10.1002/adma.200400767)." _Advanced Materials_ 16, no. 15 (2004): 1375–7. {{< br >}}{{< br >}} Doerr, Allison. "[How to Write a Cover Letter](http://blogs.nature.com/methagora/2013/09/how-to-write-a-cover-letter.html)." _Nature Methods_ (2013). {{< br >}}{{< br >}}  |
+| 5 | Macosko, Evan Z., et al. "[Highly Parallel Genome–wide Expression Profiling of Individual Cells Using Nanoliter Droplets](http://dx.doi.org/10.1016/j.cell.2015.05.002)." _Cell_ 161, no. 5 (2015): 1202–14. |  {{< br >}}{{< br >}} **Reading Effectively** {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[How to Navigate a Scientific Paper with Time Constraints: A Graphic Approach (PDF)](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) {{< br >}}{{< br >}}  |
+| 6 | Yoshida, Takehito, et al. "[Rapid Evolution Drives Ecological Dynamics in a Predator–prey System](http://dx.doi.org/10.1038/nature01767)." _Nature_ 424 (2003): 303–6. |  {{< br >}}{{< br >}} **Peer Critique of Fellowship Proposals** {{< br >}}{{< br >}} There are no readings for this topic. {{< br >}}{{< br >}}  |
+| 7 | Koski, Kristie J., et al. "[Non–invasive Etermination of the Complete Elastic Moduli of Spider Silks](http://dx.doi.org/10.1038/nmat3549)." _Nature Materials_ 12 (2013): 262–7. | {{< anchor "referee" >}}{{< /anchor >}} {{< br >}}{{< br >}} **Refereeing** {{< br >}}{{< br >}} Drubin, David G. "[Any Jackass can Trash a Manuscript, but it Takes Good Scholarship to Create One (How _MBoC_ Promotes Civil and Constructive Peer Review)](http://dx.doi.org/10.1091/mbc.E11-01-0002)." _Molecular Biology of the Cell_ 22, no. 5 (2011): 525–7. {{< br >}}{{< br >}}  |
+| 8 | Scott, Mathew, et al. "[Interdependence of Cell Growth and Gene Expression: Origins and Consequences](http://dx.doi.org/ 10.1126/science.1192588)." _Science_ 330, no. 6007 (2010): 1099–1102. |  {{< br >}}{{< br >}} **Making Figures** {{< br >}}{{< br >}} Wong, Bang. "[Points of View: Gestalt Principles (Part 1)](http://dx.doi.org/10.1038/nmeth1110-863)." _Nature Methods_ 7, no. 11 (2010): 863. {{< br >}}{{< br >}} ———. "[Points of View: Gestalt Principles (Part 2)](http://dx.doi.org/10.1038/nmeth1210-941)." _Nature Methods_ 7, no. 12 (2010): 941. {{< br >}}{{< br >}}  |
+| 9 | Meharenna, et al. "[Crystallographic and Single–Crystal Spectral Analysis of the Peroxidase Ferryl Intermediate](http://dx.doi.org/10.1021/bi100238r)." _Biochemistry_ 49 (2010): 2984. |  {{< br >}}{{< br >}} **Giving a Talk** {{< br >}}{{< br >}} McConnell, Susan. "[Designing Effective Scientific Presentations](http://www.ibiology.org/ibioseminars/techniques/susan-mcconnell-part-1.html)." iBiology.org. {{< br >}}{{< br >}} ———. "[The Importance of Giving a Good Talk](https://www.ibiology.org/professional-development/presentation-skills/)." iBiology.org. {{< br >}}{{< br >}}  |
+| 10 | Zaks, Julia, et al. "[A Kinetic Model of Rapidly Reversible Nonphotochemical Quenching](http://dx.doi.org/10.1073/pnas.1211017109)." _Proceedings of the National Academy of Sciences_ 109, no. 39 (2015): 15757–62. |  {{< br >}}{{< br >}} **Scientific Ethics** {{< br >}}{{< br >}} Glass, Bentley. "[The Ethical Basis of Science](http://dx.doi.org/10.1126/science.150.3701.1254)." _Science_ 150, no. 3701 (1965): 1254–61. {{< br >}}{{< br >}} Engineering, and Public Policy Committee on Science, Institute of Medicine, et al. _On Being a Scientist: A Guide to Responsible Conduct in Research_. National Academies Press, 2009. ISBN: 9780309119702. \[Preview with [Google Books](http://books.google.com/books?id=-vtjAgAAQBAJ&pg=PAfrontcover)\] {{< br >}}{{< br >}}  |
+| 11 | Hammar, Petter, et al. "[The _Lac_ Repressor Displays Facilitated Diffusion in Living Cells](http://dx.doi.org/ 10.1126/science.1221648)." _Science_ 336, no. 6088 (2012): 1595–8. |  {{< br >}}{{< br >}} **Curriculum Vitae** {{< br >}}{{< br >}} [Resumes, CVs, Cover Letters, and LinkedIn](https://gecd.mit.edu/jobs-and-internships/resumes-cvs-cover-letters-and-linkedin) {{< br >}}{{< br >}}  |
+| 12 | Campas, et al. "[Quantifying Cell–generated Mechanical Forces within Living Embryonic Tissues](http://dx.doi.org/10.1038/nmeth.2761)." _Nature Methods_ 11 (2014): 183–9. |  {{< br >}}{{< br >}} **Life after the Ph.D.** {{< br >}}{{< br >}} Austin, Jim, and Bruce Alberts. "[Planning Career Paths for Ph.D.s](http://dx.doi.org/ 10.1126/science.1226552)." _Science_ 337, no. 6099 (2012): 1149. {{< br >}}{{< br >}}
